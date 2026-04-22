@@ -83,8 +83,5 @@ DigitalWatchdog/
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/El-walid/DigitalWatchdog/issues).
 
-## 📄 License
-This project is currently unlicensed. (Add a license like MIT if you intend to share it publicly).
-
 ---
 *Maintained by [El-walid](https://github.com/El-walid)*
