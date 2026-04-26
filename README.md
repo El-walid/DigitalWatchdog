@@ -89,3 +89,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 * **Role:** Data Engineer & Cloud Architect
 * **Focus:** Azure Data Platform, DevOps, Python ETL
+* [LinkedIn](https://www.linkedin.com/in/el-walid-el-alaoui-fels-51491538b/)
+* [Malt](https://www.malt.com/profile/elwalidelalaouifeks)
