@@ -83,5 +83,9 @@ DigitalWatchdog/
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/El-walid/DigitalWatchdog/issues).
 
----
-*Maintained by [El-walid](https://github.com/El-walid)*
+## 👤 Author
+
+**El Walid El Alaoui Fels**
+
+* **Role:** Data Engineer & Cloud Architect
+* **Focus:** Azure Data Platform, DevOps, Python ETL
